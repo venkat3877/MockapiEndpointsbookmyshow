@@ -1,0 +1,17 @@
+Registering on https://mockapi.io/ and creating different endpoints for bookmyshow and trying in postman
+
+==> getting the list of movies or movie with id using the Get method
+
+https://61cd4e157067f600179c59f6.mockapi.io/api/v1/Movies
+
+==> getting the list of cites that containing different theaters and different movies using Get method
+
+https://61cd4e157067f600179c59f6.mockapi.io/api/v1/Cities
+
+==> using the post method booking a movie and the getting the booking details like booking id from postman
+
+https://61cd4e157067f600179c59f6.mockapi.io/api/v1/booking
+
+==> getting and updating the movies using the Get method and Put method
+
+https://61cd4e157067f600179c59f6.mockapi.io/api/v1/Updation_of_movies
